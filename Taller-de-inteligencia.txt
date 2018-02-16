@@ -1,0 +1,26 @@
+1-Defina con sus propias palabras.
+a- inteligencia: campo de la mente que permite entender, razonar, aprender y hacerse una idea de la realidad 
+b- inteligencia artificial:  es la simulación de procesos de inteligencia humana por parte de máquinas, especialmente sistemas informáticos.
+c- agente: es un ente inteligente capaz de percibir su entorno y actuar mediante el proceso de dichas persepciones de forma racional tendiendo siempre a un mejor resultado.
+
+2-Identifique un artefacto que utilice inteligencia artificial exponga que técnica utiliza y como a hecho que progrese la investigación en el campo de la inteligencia artificial.
+"ASIMO" el robot de honda que es capaz de reconocer caras y voces, analiza y combina los datos y situaciones que se le han facilitado, es decir pensar por si mismo y ofrecer respuestas y solucion.
+haciendo progresar la inteligencia artificial en cuanto a vision computacional y robotica. 
+
+3-Porque la evolución tiende a generar sistemas que actúan racionalmente, que objetivos deben intentar alcanzar estos sistemas.
+Estos sistemas estan en  constante evolucion agregando nuevas funciones es decir educando al sistema para que actue de una manera razonable logrando asi su objetivo principal de simular el comportamiento y la manera de pensar.
+
+4-¿Son racionales las acciones reflejas? ¿Son inteligentes?
+Sabemos que las acciones reflejas  da una respuesta a un movimiento o reacciones independientes a nuestra conciencia no operaria el razonamiento en este caso. Debido a que si se actúa racionalmente al momento de verse en una acción que pueda causar peligro el ser inteligente inmediatamente se pondrá a salvo.
+
+5-En realidad, los computadores son inteligentes, hace solamente lo que le digan los computadores, es cierta esa aseveración.
+Es correcto que las maquinas no tienen la capacidad de razonar ni generar nuevas ideas que su programador haya preestablecido en su sistema, para que un computador funcione necesita un usuario o un programador que le dé instrucciones dependiendo de las tareas quien la esté utilizando necesite realizar.
+
+6-En realidad, los animales, humanos y computadores no pueden ser inteligentes, ellos solo hacen los que los átomos que los conforman les dictan siguiendo las leyes de la física, es cierta esta última aseveración.
+No es cierto ya que los humanos y los animales son seres inteligentes y prevalecen por encima de los átomos que los conforman, por ultimo una computadora también se puede determinar cómo inteligente en el contexto en el cual su programador haya plasmado sus conocimientos, es decir siempre y cuando no tenga que razonar aparte de lo que conoce.
+
+7-Buscar en YouTube el video la evolución del ojo y concluir si el proceso de evolución es un acto de inteligencia o reflectivo.
+
+8-Identifica la siguiente situación, que tipo de comportamiento tendría un ser en caso de faltarle dos sentido cualquiera, y cuál sería su comportamiento en caso de faltarle todos los sentidos.
+en caso dado que estos sentidos fueran "el tacto" y "la vista", este ser se moldearia a este estilo de vida desarrollando con mayor destreza sus otros sentidos.
+y en caso dado no tener ninguno el ser humano no podria expresar funciones motrices.
